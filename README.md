@@ -86,13 +86,13 @@ CREATE TABLE final_table AS
 SELECT * FROM final_table;
 ```
 
-##### Open Confluent Command Center to manage and monitor ksqlDB
+##### Open Confluent Control Center to manage and monitor ksqlDB
 ```
 localhost:9021
 ```
 
-##### View the stream via Confluent Command Center
+##### View the stream via Confluent Control Center
 ![Stream Table in Command Center](https://user-images.githubusercontent.com/110159876/208239535-4cd5c539-51f7-475c-aa37-28825a6f8f50.jpg)
 
-##### View the table via Confluent Command Center
+##### View the table via Confluent Control Center
 ![Final Table in Command Center](https://user-images.githubusercontent.com/110159876/208239537-7ed20560-9c23-4201-847b-0b8e3bc2d4ee.jpg)
